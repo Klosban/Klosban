@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Eduardo da Silva Cordeiro 🖐
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Klosban)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)](mailto:habboedu355@gmail.com)
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klosban&layout=compact&langs_count=7&theme=dracula"/>
