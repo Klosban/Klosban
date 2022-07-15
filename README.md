@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habboedu355@gmail.com)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klosban&layout=compact&langs_count=7&theme=dracula"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klosban&layout=compact" />
 
 ## Tecnologias que eu estou aprendendo
 
