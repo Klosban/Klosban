@@ -1,4 +1,4 @@
-## Olá! Eu sou o Eduardo da Silva Cordeiro 🖐
+## Olá! Eu sou o Eduardo Cordeiro 🖐
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Klosban)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habboedu355@gmail.com)
