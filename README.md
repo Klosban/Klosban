@@ -6,7 +6,7 @@
 
 <img  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Klosban&show_icons=true&theme=radical " />
 
-## Tecnologias que eu estou aprendendo
+## Tecnologias que eu tenho interesse de aprender
 
 <div style="display: inline_block">
   <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
