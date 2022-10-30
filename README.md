@@ -6,14 +6,6 @@
 
 ![Klosban GitHub stats](https://github-readme-stats.vercel.app/api?username=Klosban&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que eu tenho interesse de aprender
-
-<div style="display: inline_block">
-  <img align="center" alt="reactnative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-
 </div><br/>
 
 ## Tecnologias que eu tenho experiência
