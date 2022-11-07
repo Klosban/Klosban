@@ -5,6 +5,7 @@
 
 
 ![Klosban GitHub stats](https://github-readme-stats.vercel.app/api?username=Klosban&show_icons=true&theme=dracula&count_private=true)
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klosban&layout=compact&langs_count=7&theme=dracula"/>
 
 </div><br/>
 
