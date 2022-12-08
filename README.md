@@ -1,5 +1,5 @@
 <h1>Olá! Eu sou o Eduardo Cordeiro 🖐</h1>
-🔎 Sou curioso e amo tudo que envolva tecnologia  </br>
+🔎 Sou curioso e amo tudo que envolve tecnologia  </br>
 📚 Atualmente estudando para se aperfeiçoar no desenvolvimento web moderno</br>
 💻 Foco principal na área de front-end
 
