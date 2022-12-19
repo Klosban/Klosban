@@ -1,7 +1,6 @@
 <h1>Olá! Eu sou o Eduardo Cordeiro 🖐</h1>
 🔎 Sou curioso e amo tudo que envolve tecnologia  </br>
-📚 Sempre estudando para se aperfeiçoar no desenvolvimento web moderno</br>
-💻 Desenvolvedor Web
+📚 Sempre estudando para se aperfeiçoar no desenvolvimento web moderno </br>
 
 <img src="https://ouch-cdn2.icons8.com/vZD-nOO0-rKGloPBW0WjLQF-i8hfkpa7QWY_3L4YTGA/rs:fit:684:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" min-width="400px" max-width="450px" width="400px" align="right"/>
 
